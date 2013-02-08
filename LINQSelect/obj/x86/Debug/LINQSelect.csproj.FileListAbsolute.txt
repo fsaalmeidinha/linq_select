@@ -1,0 +1,5 @@
+C:\Users\Felipe\Desktop\LINQSelect\LINQSelect\obj\x86\Debug\LINQMethods.exe
+C:\Users\Felipe\Desktop\LINQSelect\LINQSelect\obj\x86\Debug\LINQMethods.pdb
+C:\Users\Felipe\Desktop\LINQSelect\LINQSelect\bin\Debug\LINQMethods.exe
+C:\Users\Felipe\Desktop\LINQSelect\LINQSelect\bin\Debug\LINQMethods.pdb
+C:\Users\Felipe\Desktop\LINQSelect\LINQSelect\obj\x86\Debug\ResolveAssemblyReference.cache
